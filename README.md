@@ -1,7 +1,11 @@
-## Hi there 👋
+![Programming Meme - Bird](https://thecodinglove.com/program-complete-mess-do-the-job)
+
 
 <!--
-**aba-hb/aba-hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+YES I LEFT THIS IN HERE
+NO YOU SHOULD NOT LOOK IN HERE
+THIS IS TEMPORARY - PROMISED ...
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
