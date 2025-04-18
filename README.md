@@ -1,4 +1,3 @@
-![Programming Meme - Bird](https://thecodinglove.com/program-complete-mess-do-the-job)
 
 
 <!--
