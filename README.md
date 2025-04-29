@@ -1,3 +1,4 @@
+<!--
 
 # 👋 Hi, I'm Adrian.
 
@@ -46,11 +47,21 @@ There's also a [YouTube Channel](https://www.youtube.com/@wtch28) with mediocre 
 Well, jokes on you, they're all **private**.  
 If I ever feel like one of my projects can provide value to a bigger audience than myself, i'll happily share them, but I don't see any value in flooding GitHub with additional useless public repositories. We're not putting every small life decision in our CVs, so why would we put every small line of code in a public repository?
 
+
+> Thank you for reading and I'm sorry if anybody feels offended by the way I phrased my README, but there's enough of soullessness in todays world and I'd rather be accepted for who I am, not for what I can pretend to be.
+
+
 ----
 ## 🦖 The Truth
 
+-->
+
+[Homepage](https://aba-hb.github.io/)  
+
 ![Programming Meme - It does the Job](./resources/ProgrammingMeme_Bird.jpg)
+
+<!--
 
 ---
 
-> Thank you for reading and I'm sorry if anybody feels offended by the way I phrased my README, but there's enough of soullessness in todays world and I'd rather be accepted for who I am, not for what I can pretend to be.
+-->
